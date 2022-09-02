@@ -2,7 +2,8 @@
   "name": "objectgo-night",
   "displayName": "ObjectGO Night",
   "description": "ObjectGO Night Theme",
-  "version": "0.0.2",
+  "icon": "logo_night.png",
+  "version": "0.0.3",
   "publisher": "FreddyStraub",
   "repository": {
     "type": "git",
