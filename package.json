@@ -1,0 +1,38 @@
+{
+  "name": "objectgo-night",
+  "displayName": "ObjectGO Night",
+  "description": "ObjectGO Night Theme",
+  "version": "0.0.1",
+  "publisher": "FreddyStraub",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreddyStraub/ObjectGO-Nigth"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "keywords": [
+    "object",
+    "objectgo",
+    "go",
+    "dark",
+    "night"
+    "freddy",
+    "straub",
+    "freddy straub",
+    "freddystraub",
+    "theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ObjectGO Night Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ObjectGO Night Theme-color-theme.json"
+      }
+    ]
+  }
+}
